@@ -1,0 +1,9 @@
+assets/gallery
+
+assets/gifts
+
+assets/magazine
+
+assets/letters
+
+assets/background
